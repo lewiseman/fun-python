@@ -1,6 +1,6 @@
 from instapy import InstaPy
 
-session = InstaPy(username="le_wiseman", password="murang'a9748")
+session = InstaPy(username="le_wiseman", password="************")
 session.login()
 
 session.like_by_tags(['love', 'gainwithmcharming'], amount=10)
