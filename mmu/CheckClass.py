@@ -11,8 +11,8 @@ browser.get('https://elearning.mmu.ac.ke/login/index.php')
 print(browser.title)
 
 #credentials to login
-username = "SCT-254-007/2020"
-password = "nairobi9748"
+username = "REG NUMBER"
+password = "*********"
 
 #input areas
 NameInput = browser.find_element_by_id("username")
